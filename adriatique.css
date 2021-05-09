@@ -1,0 +1,94 @@
+* {
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    width: 1300px;
+    height: 250px ;
+    background-color: black;
+}
+h1 {
+    font-weight: bold;
+
+}
+.Principio {
+    width: 1300px;
+    height: 250px;
+    border: 1px solid white;
+    position:relative;
+}
+.imagenprincipal {
+    width: 150px;
+    height: 150px;
+    border-radius: 0%;
+    position:absolute;
+    top: 0%;
+    right: 0px;
+}
+.imagenprincipal img {
+    width: 150px;
+    height: 150px;
+}
+.Section {
+    width: 1300px;
+    height: 400px;
+    border: 1px solid white;
+    position: relative;
+}
+.Imagesection {
+    width: 300px;
+    height: auto;
+    border-radius: 100px;
+    position: absolute;
+    right: 500px;
+}
+.parrafo1 {
+    width: 800px;
+    height: 150px;
+    box-sizing: border-box;
+    position: absolute;
+    text-align: center;
+    top: 80%;
+    left: 20%;
+}
+.parrafo2 {
+    width: 800px;
+    height: 150px;
+    box-sizing: border-box;
+    position: absolute;
+    text-align: center;
+    top: 60%;
+    left: 20%;
+}
+.parrafo3 {
+    width: 800px;
+    height: 150px;
+    box-sizing: border-box;
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: 20%;
+}
+footer {
+    width: 1300px;
+    height: 250px;
+    border: 1px solid white;
+    position: relative;
+}
+.Footerimage {
+    width: 150px;
+    height: auto;
+    position: absolute;
+    left: 5%;
+    bottom: 10%;
+}
+.Footerimage img {
+    width: 150px;
+    height: 150px;
+}
+.Linkinteres {
+    position: absolute;
+    left: 1000px;
+    top: 150px;
+}
+
